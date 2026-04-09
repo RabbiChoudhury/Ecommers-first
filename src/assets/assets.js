@@ -53,6 +53,7 @@ import p_img49 from './p_img49.png'
 import p_img50 from './p_img50.png'
 import p_img51 from './p_img51.png'
 import p_img52 from './p_img52.png'
+// import rakkib from './rakkib.jpeg'
 
 
 import logo from './logo.png'
@@ -96,6 +97,19 @@ export const assets = {
 }
 
 export const products = [
+    //frist object is for Rakkib
+    //    {
+    //     _id: "aaaa1",
+    //     name: "Women Round Neck Cotton Top",
+    //     description: "A lightweight, usually knitted, pullover shirt, close-fitting and with a round neckline and short sleeves, worn as an undershirt or outer garment.",
+    //     price: 100,
+    //     image: [rakkib],
+    //     category: "Women",
+    //     subCategory: "Topwear",
+    //     sizes: ["S", "M", "L"],
+    //     date: 1716634345448,
+    //     bestseller: true
+    // },
     {
         _id: "aaaaa",
         name: "Women Round Neck Cotton Top",
